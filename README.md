@@ -1,3 +1,6 @@
+# Enlace Video
+https://youtu.be/lUXAIRoJHoM
+
 # Proyecto_DeepLearning
 Proyecto de Fundamentos de Deep Learning sobre recaudo publico de impuestos, utilizando modelos de redes neuronales recurrentes, perceptrones multicapa y redes LSTM, con el objetivo de predecir la variable recaudo. 
 Se utilizan notebooks de Python para el desarrollo del proyecto de investigación.
